@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Terminal
+Linux
+Desenvolvimento
+VsCode
+Node
