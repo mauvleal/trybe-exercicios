@@ -1,0 +1,72 @@
+ol li {
+    background-color: yellow;
+}
+
+ol li.par {
+    color: green;  
+}
+
+ol li.impar {
+    text-transform: uppercase;
+}
+
+.head {color: red}
+
+.head em {
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+li em {
+    font-weight: 600;
+}
+
+.tres {
+    color: blue;
+}
+
+.rosa {
+    background-color: pink;
+}
+
+a {
+    color: blue;
+}
+a:hover{
+    font-weight: 600;
+}
+a:active {
+color: black;
+}
+
+#stackover:hover {
+color: orange;
+}
+
+#h3:hover {
+color: green;
+}
+
+#deve:hover {
+color: black;
+}
+
+#devdocs:hover {
+    color: yellow;
+}
+
+#trybe:hover {
+color: green;
+}
+
+::marker {
+    color: red;
+}
+
+
+
+
