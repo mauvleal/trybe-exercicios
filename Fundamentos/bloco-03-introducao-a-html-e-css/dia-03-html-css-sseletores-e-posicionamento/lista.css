@@ -1,0 +1,30 @@
+
+
+h1, p {
+    text-align: center;
+}
+
+li:hover {
+    background-color: green;
+}
+
+li:active {
+    color: white;
+    font-family: cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

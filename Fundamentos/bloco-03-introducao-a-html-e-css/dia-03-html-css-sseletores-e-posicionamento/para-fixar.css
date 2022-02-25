@@ -1,0 +1,55 @@
+
+
+div:hover{
+ 
+    border-style: solid;
+    border-color: red;
+}
+
+#primaria{
+    color: blue;
+}
+
+#secundaria{
+    color: purple;
+}
+
+#complementar{
+    color: blueviolet;
+}
+
+#escura{
+color: rgb(43, 70, 13);
+}
+
+#clara{
+color: rgb(207, 226, 38);
+}
+
+#cor-um {
+    background-color: fuchsia;
+} 
+
+#cor-dois {
+    font-size: 12px;
+}
+
+#cor-tres {
+    font-family: fantasy;
+}
+
+#cor-quatro {
+    font-style: italic;
+}
+
+#cor-cinco {
+    text-decoration: underline;
+}
+
+#complementar {
+    font-size: 35px;
+}
+
+#cor-um, #cor-tres, #cor-cinco {
+    font-style: italic;
+}
