@@ -69,13 +69,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [x] 8-5: _[Projeto - Zoo functions](https://github.com/tryber/sd-021-a-project-zoo-functions/pull/28)_
 
-##### Bloco 9: Assincronicidade & Callbacks
+##### Bloco 9: Assincronicidade & Callbacks :heavy_check_mark:
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
 - [x] 9-3: _[Projeto - Carrinho de Compras]()_
 
-##### Bloco 10: Jest
+##### Bloco 10: Jest :heavy_check_mark:
 
 - [x] 10-1: _Primeiros passos no Jest_
 - [x] 10-2: _Jest - Testes Assíncronos_
@@ -84,37 +84,37 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: Introdução - React
+##### Bloco 11: Introdução - React :heavy_check_mark:
 
 - [x] 11-1: _'Hello, world!' no React!_
 - [x] 11-2: _Componentes React_
 - [x] 11-3: _[Projeto - Movie Cards Library]()_
 
-##### Bloco 12: React
+##### Bloco 12: React :heavy_check_mark:
 
 - [x] 12-1: _Components com estado_
 - [x] 12-2: _Eventos e formulários no React_
 - [x] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
-##### Bloco 13: React
+##### Bloco 13: React :heavy_check_mark:
 
 - [x] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
 - [x] 13-2: _Ciclo de vida de componentes em React_
 - [x] 13-3: _React Router_
 - [x] 13-4: _[Projeto - Movie Cards Library CRUD]()_
 
-##### Bloco 14: Metodologias Ágeis
+##### Bloco 14: Metodologias Ágeis :heavy_check_mark:
 
 - [x] 14-1: _Metodologias Ágeis_
 - [x] 14-2: _[Projeto - Frontend Online Store]()_
 
-##### Bloco 15: Testes em React
+##### Bloco 15: Testes em React :heavy_check_mark:
 
 - [x] 15-1: _Testando React com a React Testing Library_
 - [x] 15-2: _Testando React com a React Testing Library - Parte 2_
 - [x] 15-3: _[Projeto - Testes em React]()_
 
-##### Bloco 16: Introdução ao Redux
+##### Bloco 16: Introdução ao Redux :heavy_check_mark:
 
 - [x] 16-1: _Introdução ao Redux_
 - [x] 16-2: _React com Redux - Parte 1_
@@ -123,24 +123,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 16-5: _Testes síncronos com React-Redux_
 - [x] 16-6: _[Projeto - Tabela com filtros de dados]()_
 
-##### Bloco 17: Projeto React
+##### Bloco 17: Projeto React :heavy_check_mark:
 
 - [x] 17-1: _[Projeto - Jogo de Trivia]()_
 
-##### Bloco 18: React & Context API
+##### Bloco 18: React & Context API :heavy_check_mark:
 
 - [x] 18-1: _Context API do React_
 - [x] 18-2: _React Hooks - useState e useContext_
 - [x] 18-3: _React Hooks - useEffect e Hooks customizados_
 - [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-##### Bloco 19: Projeto Final de Front-end
+##### Bloco 19: Projeto Final de Front-end :heavy_check_mark:
 
 - [x] 19-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: Introdução - Bancos de dados relacionais
+##### Bloco 20: Introdução - Bancos de dados relacionais :heavy_check_mark:
 
 - [x] 20-1: _Banco de dados SQL_
 - [x] 20-2: _Encontrando dados em um banco de dados_
@@ -148,14 +148,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 20-4: _Manipulando tabelas_
 - [x] 20-5: _[Projeto - All For One]()_
 
-##### Bloco 21: Bancos de dados relacionais
+##### Bloco 21: Bancos de dados relacionais :heavy_check_mark:
 
 - [x] 21-1: _Funções mais usadas no SQL_
 - [x] 21-2: _Descomplicando JOINs e UNIONs_
 - [x] 21-3: _Stored Routines & Subqueries_
 - [ ] 21-4: _[Projeto - Vocabulary Booster]()_
 
-##### Bloco 22: Bancos de dados relacionais
+##### Bloco 22: Bancos de dados relacionais :heavy_check_mark:
 
 - [x] 22-1: _Transformando ideias em um modelo de banco de dados_
 - [x] 22-2: _Normalização, Formas Normais e Dumps_
